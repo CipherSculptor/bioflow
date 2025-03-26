@@ -1,0 +1,1 @@
+const apiUrl = window.netlifyEnv?.API_URL || 'API_URL_PLACEHOLDER'; 
