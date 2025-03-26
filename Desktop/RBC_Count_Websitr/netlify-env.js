@@ -1,1 +1,2 @@
-const apiUrl = window.netlifyEnv?.API_URL || 'API_URL_PLACEHOLDER'; 
+// IMPORTANT: Replace this URL with your actual Render API URL after deploying your backend
+const apiUrl = 'https://bioflow-api.onrender.com';  // Update this with your actual Render URL 
